@@ -40,7 +40,7 @@ public class About extends javax.swing.JFrame {
             }
         });
 
-        jLabel_vice_logo.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Images/vice_logo.png"))); // NOI18N
+        jLabel_vice_logo.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Images/vice.png"))); // NOI18N
         jLabel_vice_logo.setAlignmentX(10.0F);
         jLabel_vice_logo.setAlignmentY(10.0F);
 
@@ -142,19 +142,19 @@ public class About extends javax.swing.JFrame {
     }//GEN-LAST:event_jButton_back_homeActionPerformed
 
     private void jButton_vice_webpageActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton_vice_webpageActionPerformed
-        Tasks.openLink("https://justvice.github.io");
+        Tasks.openLink("http://split-vice.com");
     }//GEN-LAST:event_jButton_vice_webpageActionPerformed
 
     private void jButton_vice_twitterActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton_vice_twitterActionPerformed
-        Tasks.openLink("https://justvice.github.io/s/twitter");
+        Tasks.openLink("http://split-vice.com/s/twitter");
     }//GEN-LAST:event_jButton_vice_twitterActionPerformed
 
     private void jButton_vaesecrypt_pageActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton_vaesecrypt_pageActionPerformed
-        Tasks.openLink("https://justvice.github.io/technology/java/v-aesecrypt-2/");
+        Tasks.openLink("http://split-vice.com/technology/java/v-aesecrypt-2/");
     }//GEN-LAST:event_jButton_vaesecrypt_pageActionPerformed
 
     private void jButton_vaesecrypt2_githubActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton_vaesecrypt2_githubActionPerformed
-        Tasks.openLink("https://github.com/JustVice/v-aesecrypt-2");
+        Tasks.openLink("http://github.com/SplitVice/v-aesecrypt-2");
     }//GEN-LAST:event_jButton_vaesecrypt2_githubActionPerformed
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
